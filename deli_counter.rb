@@ -6,7 +6,6 @@ def line(katz_deli)
   elsif i >= 0
     puts "The line is currntly: #{i+1}. #{name}"
   end
-  end
 end
 
 def take_a_number(katz_deli)
