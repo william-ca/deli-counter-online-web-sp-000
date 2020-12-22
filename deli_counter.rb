@@ -5,4 +5,3 @@ def line(katz_deli)
     puts "line is empty"
   end
 end
-  
