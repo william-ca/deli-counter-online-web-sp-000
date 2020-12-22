@@ -6,6 +6,6 @@ def line(katz_deli)
     puts "The line is currently empty."
   elsif i > 0
     puts "#{i+1}. #{name}"
-
+  end
   end
 end
